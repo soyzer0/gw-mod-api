@@ -1,3 +1,3 @@
-# Prueba
+# Beta cerrada de la API que se emplea en MiaUtilidades
 
-Este módulo aún está en construcción.
+Versión 0.0.5
